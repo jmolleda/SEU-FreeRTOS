@@ -1,4 +1,3 @@
-```markdown
 # FreeRTOS — Conceptos y guía de implementación
 
 Este repositorio contiene documentación y ejemplos detallados sobre el uso de **FreeRTOS**, con foco en la **gestión de tareas**, **colas** y la **arquitectura del sistema** para entornos empotrados.
